@@ -100,7 +100,7 @@
 }
 .e .yellow{
 	float: left;
-	height: 400px;
+	height: 600px;
 	width: 50%;
 	background-color: #fcdc3e;
 }
@@ -120,7 +120,7 @@
 .e .blue{
 	float: left;
 	width: 50%;
-	height: 400px;
+	height: 600px;
 	background-color: #24135f;
 }
 .e .yellow a,.e .blue a{
